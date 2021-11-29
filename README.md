@@ -20,7 +20,7 @@ website link : https://internalmarks.w3spaces.com/
 ## 3. signup page <br/>
   ### &emsp; (i) fill detail page
   ![image](https://user-images.githubusercontent.com/83307176/143855514-d0ffb0aa-a720-4b9d-b5bd-6c90bb7f2da8.png)
-   ### &emsp; &emsp; > Three notification after signup
+   ### &emsp; > Three notification after signup
    #### &emsp; &emsp; (a) if id already registered
    ![image](https://user-images.githubusercontent.com/83307176/143856474-b34b0aa7-2f79-41d7-88cb-417c16a58f1f.png)
    #### &emsp; &emsp; (b) if new id is registerd(it will be sent for principle verification to sort out original users)
