@@ -1,5 +1,5 @@
 # rnsitinternalwebsite 
-website link : rnsitinternal.freecluster.eu
+website link : http://rnsitinternal.freecluster.eu/?i=1
 >The given website link is not official internal website of rnsit. Name and picture used in the site is without the permission of original owner(contact for any changes on email given at the fotter of the front page(by just clicking on email you will be directed to email browser/app) .
 # images
 ## 1. fornt page <br /> 
